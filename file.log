@@ -1,0 +1,10 @@
+[2016-10-19 21:18:06]: [ALERT MESSAGE]: "some message", [CONTEXT]:  [str]: strval; [num]: 123; [array]: Array
+(
+    [0] => 1
+    [1] => 4
+    [2] => str
+)
+; [exc]: exception 'Exception' with message 'excsept' in C:\Apache24\htdocs\index2.php:15
+Stack trace:
+#0 {main};
+
